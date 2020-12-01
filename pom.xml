@@ -8,7 +8,7 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath />
 	</parent>
-	<groupId>skizmflop-service-registry</groupId>
+	<groupId>net.skizmflop.service</groupId>
 	<artifactId>skizmflop-service-registry</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>Service Registry</name>
